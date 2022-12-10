@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpadams/nodejs-ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpadams/nodejs-ci-test/issues"
+  },
+  "homepage": "https://github.com/jpadams/nodejs-ci-test#readme",
+  "type": "module",
+  "devDependencies": {
+    "@dagger.io/dagger": "^0.3.0"
+  }
+}
